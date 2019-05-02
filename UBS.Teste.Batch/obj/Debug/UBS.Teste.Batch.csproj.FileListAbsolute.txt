@@ -1,0 +1,14 @@
+C:\Fernando\UBS\UBS\UBS.Teste.Batch\bin\Debug\UBS.Teste.Batch.exe.config
+C:\Fernando\UBS\UBS\UBS.Teste.Batch\bin\Debug\UBS.Teste.Batch.exe
+C:\Fernando\UBS\UBS\UBS.Teste.Batch\bin\Debug\UBS.Teste.Batch.pdb
+C:\Fernando\UBS\UBS\UBS.Teste.Batch\bin\Debug\Newtonsoft.Json.dll
+C:\Fernando\UBS\UBS\UBS.Teste.Batch\bin\Debug\UBS.Teste.Dto.dll
+C:\Fernando\UBS\UBS\UBS.Teste.Batch\bin\Debug\UBS.Teste.IServices.dll
+C:\Fernando\UBS\UBS\UBS.Teste.Batch\bin\Debug\UBS.Teste.Dto.pdb
+C:\Fernando\UBS\UBS\UBS.Teste.Batch\bin\Debug\UBS.Teste.IServices.pdb
+C:\Fernando\UBS\UBS\UBS.Teste.Batch\bin\Debug\Newtonsoft.Json.xml
+C:\Fernando\UBS\UBS\UBS.Teste.Batch\obj\Debug\UBS.Teste.Batch.csprojAssemblyReference.cache
+C:\Fernando\UBS\UBS\UBS.Teste.Batch\obj\Debug\UBS.Teste.Batch.csproj.CoreCompileInputs.cache
+C:\Fernando\UBS\UBS\UBS.Teste.Batch\obj\Debug\UBS.Teste.Batch.csproj.CopyComplete
+C:\Fernando\UBS\UBS\UBS.Teste.Batch\obj\Debug\UBS.Teste.Batch.exe
+C:\Fernando\UBS\UBS\UBS.Teste.Batch\obj\Debug\UBS.Teste.Batch.pdb

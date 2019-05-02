@@ -1,0 +1,5 @@
+C:\Fernando\UBS\UBS\UBS.Teste.Dto\bin\Debug\UBS.Teste.Dto.dll
+C:\Fernando\UBS\UBS\UBS.Teste.Dto\bin\Debug\UBS.Teste.Dto.pdb
+C:\Fernando\UBS\UBS\UBS.Teste.Dto\obj\Debug\UBS.Teste.Dto.csproj.CoreCompileInputs.cache
+C:\Fernando\UBS\UBS\UBS.Teste.Dto\obj\Debug\UBS.Teste.Dto.dll
+C:\Fernando\UBS\UBS\UBS.Teste.Dto\obj\Debug\UBS.Teste.Dto.pdb
