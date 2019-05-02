@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="UBS.Teste.Services.ProcessosClientesService" CodeBehind="ProcessosClientesService.svc.cs" %>
